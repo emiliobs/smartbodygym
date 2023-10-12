@@ -8,7 +8,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/all.min.js" type="text/javascript"></script>
 <script src="js/Customer.js" type="text/javascript"></script>
 
-<footer class="border-top footer text-muted" style="margin-top: 120px;">
+<footer class="border-top footer text-muted" style="margin-top: 300px;">
     <div class="container text-center">
         <a style="color: #3b5998;" href="https://www.facebook.com/" target="_blank" role="button">
             <i class="fab fa-facebook-f fa-lg"></i>
